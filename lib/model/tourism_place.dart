@@ -119,4 +119,18 @@ var tourismPlaceList = [
         'https://rinaldiad.files.wordpress.com/2013/09/20130929-222648.jpg',
         'https://seringjalan.com/wp-content/uploads/2020/01/danau-dariza-garut-1-816x454.jpg',
       ]),
+  TourismPlace(
+      name: 'Goa Sarang Aceh',
+      location: 'Kota Sabang',
+      description:
+          'Goa yang berada di balik Gunung Sabang ini menyimpan keindahan yang tersembunyi,saat berada disana kita bisa melihat hijau nya pepohonan dan biru jernihnya air laut. Apabila ingin menuju goa ini harus menggunakan perahu,karena goa ini menjorok ke laut biru Pulau Weh.Saat memasukinya anda harus melewati jalur yang berbatu serta tebing yang curam dan beberapa batuan karang.',
+      openDays: 'Buka Setiap Hari',
+      openTime: '08.00 - 18.00',
+      ticketPrice: 'Rp.10.000',
+      imageAsset: 'images/goa-sarang-aceh.jpg',
+      imageUrls: [
+        'https://www.kba.one/files/images/20211213-8734c01c-b566-4f0e-b3b0-71e4e86fc1e0.jpg',
+        'https://www.kba.one/files/images/f16772f5-97d9-4e9f-8f2e-ea0827430be2.jpg',
+        'https://img.okezone.com/content/2018/02/03/406/1854338/pesona-wisata-gua-sarang-sabang-yang-ramai-dikunjungi-turis-asing-1m31MFO65z.jpg',
+      ]),
 ];
