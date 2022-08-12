@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:wisata_aceh/detail_screen.dart';
+import 'package:wisata_aceh/main_screen.dart';
+// import 'package:wisata_aceh/model/tourism_place.dart';
 
 void main() {
   runApp(const MyApp());
@@ -16,7 +17,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const DetailScreen(),
+      home: const MainScreen(),
     );
   }
 }
